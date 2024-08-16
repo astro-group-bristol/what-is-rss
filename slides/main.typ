@@ -11,9 +11,10 @@
 #let COLOR_REFL = color.rgb("#D55E00")
 #let COLOR_CONT = color.rgb("#0072B2")
 
+#set text(size: 30pt)
+
 #let rss_logo = read("./figs/Feed-icon.svg")
 
-#set text(size: 30pt)
 
 #title-slide(
   title_size: 114pt,
